@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-NouRepositori",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-alumne",
+      "appliesTo": "alumne.html",
+      "type": "launch"
+    }
+  ]
+}
